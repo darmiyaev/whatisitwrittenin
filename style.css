@@ -22,7 +22,7 @@ h2 {
 }
 .feedback {
   position: relative;
-  left: 10px;
+  left: 223px;
   top: 50px;
 }
 input[type=submit] {
@@ -39,4 +39,10 @@ input[type="submit"]:hover {
 }
 fieldset {
   width: 10%;
+}
+* {
+  text-align: center;
+}
+.align {
+  left: 20px;
 }
