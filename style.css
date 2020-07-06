@@ -1,0 +1,39 @@
+h1 {
+  color: black;
+  margin-bottom: 50px;
+  margin-top: 40px;
+  margin-left: 40px;
+  font-family: 'Barlow', sans-serif;
+}
+form {
+  position: relative; 
+  left: 77px;
+  font-family: 'Didact Gothic', sans-serif;
+}
+input[type=text]:focus {
+  transition: 0.3s;
+  border: 1px solid #555;
+}
+h2 {
+  font-size: 25px;
+  position: relative;
+  top: 40px;
+  left: 30px;
+}
+.feedback {
+  position: relative;
+  left: 10px;
+  top: 50px;
+}
+input[type=submit] {
+  color: black;
+  position: relative;
+  top: 5px;
+  width: 48%;
+  font-family: 'Merriweather', serif;
+  border: 1px solid #DCDCDC;
+}
+input[type="submit"]:hover {
+  background-color: #D3D3D3;
+  border: 1px solid;
+}
