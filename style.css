@@ -37,3 +37,6 @@ input[type="submit"]:hover {
   background-color: #D3D3D3;
   border: 1px solid;
 }
+fieldset {
+  width: 10%;
+}
